@@ -16,12 +16,24 @@
 
     * os: Biblioteca que irá interagir com o sistema de arquivos do sistema operacional.
 
+    * time: Ira dar intervalos para as requisições a API.
+
+# Pastas do projeto
+    * Base CNPJs: Pasta que irá conter os CNPJs que serão consultados na  API e analisados pelo python.
+
+    * Dados Prontos: Pasta que ira conter as planilhas com os dados prontos para utilização na construção do dashboard
+
+    * Erros: Pasta que ira conter o log.txt com os erros de execução da automação.
+    
 # API utilizada no projeto
 
     * ReceitaWS: Nesse projeto iremos utilizar a API da ReceitaWS que tem
     como objetivo acessar as informações de empresas através do CNPJ
 
     * Limite de Requisições: A versão pública da API permite apenas 3 requisições por minuto.
+
+    * No link da requisição, os CNPJS devem ser passados sem os caracteres
+    especiais
 
     * link do site da API: https://developers.receitaws.com.br/?_gl=1*1rfqhri*_gcl_aw*R0NMLjE3ODg4MDc0OTMuQ2p3S0NBand3Zm5VQmhBdEVpd0FmUXBBWXRPbk5CZWF2ZWdlNXdRWXhoMFdCcTlLdGRZT2tzTDZhYUN2WVBlY0J6QVdZVVd3SHBySEZ4b0NMWVlRQXZEX0J3RQ..*_gcl_au*NDg1MzMwNjUuMTc4MjQxMzYzOQ..*_up*MQ..*_gs*MQ..&gclid=CjwKCAjwwfnUBhAtEiwAfQpAYtOnNBeavege5wQYxh0WBq9KtdYOksL6aaCvYPecBzAWYUWwHprHFxoCLYYQAvD_BwE&gbraid=0AAAAADf89S_afycagpHKh_AR8ta-0ixpT
 
@@ -34,8 +46,17 @@
     * O sistema deverá criar uma pasta que contém todas as planilhas 
     com os dados tratados e prontos para serem utilizados.
 
+    * O sistema devera criar uma pasta que contém o arquivo txt que 
+    indica erros na execução do programa (arquivos não excel e falhas
+    na busca de cnpj na api).
+
     * O sistema devera acessar a pasta que contém os CNPJs que serão
     acessados
+
+    * O sistema deverá verificar se a extensão do arquivo é do tipo .xlsx
+
+    * Se a extensão do arquivo não for .xlsx, o sistema deverá ignorar o arquivo e listar ele como inválido em um arquivo txt (log presente
+    na pasta "Arquivos Errados").
 
     * O sistema devera realizar requisições a API do ReceitaWS para verificar as informações das empresas.
 

@@ -1,0 +1,6 @@
+Falha na busca pelo CNPJ Unnamed: 0, a requisição retornou o código 400
+Falha na busca pelo CNPJ Unnamed: 0, a requisição retornou o código 400
+O arquivo modelo contratação.docx não é um excel
+Falha na busca pelo CNPJ Unnamed: 0 do arquivo lista 2 (1).xlsx, a requisição retornou o código 400
+Falha na busca pelo CNPJ Unnamed: 0 do arquivo lista1.xlsx, a requisição retornou o código 400
+O arquivo modelo contratação.docx não é um excel
