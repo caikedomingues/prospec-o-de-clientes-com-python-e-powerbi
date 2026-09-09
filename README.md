@@ -31,6 +31,9 @@
     * O sistema deverá criar na pasta do projeto um diretório que irá
     conter todas as planilhas analisadas.
 
+    * O sistema deverá criar uma pasta que contém todas as planilhas 
+    com os dados tratados e prontos para serem utilizados.
+
     * O sistema devera acessar a pasta que contém os CNPJs que serão
     acessados
 
