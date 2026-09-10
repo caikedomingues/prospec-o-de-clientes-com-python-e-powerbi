@@ -7,16 +7,17 @@
   informações e gera uma base otimizada para alimentar um dashboard
   analitico e operacional no PowerBI.
 
+
   # Bibliotecas Utilizadas
     * Pandas: Biblioteca de manipulação e análise de dados
 
     * Requests: Biblioteca para realização de requisições a sites e APIs
 
-    * openpyxl: Biblioteca que ira modificar os arquivos que serão acessados pelo powerbi
-
     * os: Biblioteca que irá interagir com o sistema de arquivos do sistema operacional.
 
     * time: Ira dar intervalos para as requisições a API.
+
+    * datetime: Irá regsitrar a data e a hora de cada requisição no log.txt de erros de execução.
 
 # Pastas do projeto
     * Base CNPJs: Pasta que irá conter os CNPJs que serão consultados na  API e analisados pelo python.
@@ -36,6 +37,21 @@
     especiais
 
     * link do site da API: https://developers.receitaws.com.br/?_gl=1*1rfqhri*_gcl_aw*R0NMLjE3ODg4MDc0OTMuQ2p3S0NBand3Zm5VQmhBdEVpd0FmUXBBWXRPbk5CZWF2ZWdlNXdRWXhoMFdCcTlLdGRZT2tzTDZhYUN2WVBlY0J6QVdZVVd3SHBySEZ4b0NMWVlRQXZEX0J3RQ..*_gcl_au*NDg1MzMwNjUuMTc4MjQxMzYzOQ..*_up*MQ..*_gs*MQ..&gclid=CjwKCAjwwfnUBhAtEiwAfQpAYtOnNBeavege5wQYxh0WBq9KtdYOksL6aaCvYPecBzAWYUWwHprHFxoCLYYQAvD_BwE&gbraid=0AAAAADf89S_afycagpHKh_AR8ta-0ixpT
+
+                                Possiveis retornos da API
+    * 200: Sucesso, o servidor retornou os dados buscados
+
+    * 400: O servidor esta funcionando e recebeu a sua requsição, mas recusou a solicitação porque o formato ou o conteudo do pedido esta
+    incorreto.
+
+    * 404: Quando o valor buscado não é encontrado pela API
+
+    * 429: Indica que o limite de requisições a API foi atingido.
+
+    * 504: Representa que o tempo de espera do servidor por uma resposta 
+    foi atingido.
+
+   
 
 # Funcionalidades do sistema
                                 Python
@@ -97,6 +113,6 @@
     * Uma tabela detalhada onde o vendedor aplica o filtro por empresas
     , por Estado e por disponibilidade de contato.
 
-    
+        
 
     
