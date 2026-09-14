@@ -1,48 +1,30 @@
-Falha na busca pelo CNPJ CNPJ da planilha lista 2 (1).xlsx. código: 400
-Data da Requisição: 10/09/26 16:06
----------------------------------------------------------------------------------------------------
-Falha na busca pelo CNPJ CNPJ da planilha lista1.xlsx. código: 400
-Data da Requisição: 10/09/26 16:09
----------------------------------------------------------------------------------------------------
 Falha na busca pelo CNPJ 01333986000119 da planilha lista1.xlsx. código: 400
-Data da Requisição: 10/09/26 16:11
+Data da Requisição: 14/09/26 15:35
 ---------------------------------------------------------------------------------------------------
 O arquivo modelo contratação.docx não é um excel
-Data da Requisição: 10/09/26 16:11
+Data da Requisição: 14/09/26 15:35
 -------------------------------------------------------------------------
-Falha na busca pelo CNPJ CNPJ da planilha lista 2 (1).xlsx. código: 400
-Data da Requisição: 10/09/26 16:20
----------------------------------------------------------------------------------------------------
-Falha na busca pelo CNPJ CNPJ da planilha lista1.xlsx. código: 400
-Data da Requisição: 10/09/26 16:23
----------------------------------------------------------------------------------------------------
 Falha na busca pelo CNPJ 01333986000119 da planilha lista1.xlsx. código: 400
-Data da Requisição: 10/09/26 16:25
+Data da Requisição: 14/09/26 15:57
 ---------------------------------------------------------------------------------------------------
 O arquivo modelo contratação.docx não é um excel
-Data da Requisição: 10/09/26 16:25
+Data da Requisição: 14/09/26 15:57
 -------------------------------------------------------------------------
-Falha na busca pelo CNPJ CNPJ da planilha lista 2 (1).xlsx. código: 400
-Data da Requisição: 10/09/26 16:29
----------------------------------------------------------------------------------------------------
-Falha na busca pelo CNPJ CNPJ da planilha lista1.xlsx. código: 400
-Data da Requisição: 10/09/26 16:31
----------------------------------------------------------------------------------------------------
 Falha na busca pelo CNPJ 01333986000119 da planilha lista1.xlsx. código: 400
-Data da Requisição: 10/09/26 16:33
+Data da Requisição: 14/09/26 16:20
 ---------------------------------------------------------------------------------------------------
 O arquivo modelo contratação.docx não é um excel
-Data da Requisição: 10/09/26 16:33
+Data da Requisição: 14/09/26 16:20
 -------------------------------------------------------------------------
-Falha na busca pelo CNPJ CNPJ da planilha lista 2 (1).xlsx. código: 400
-Data da Requisição: 10/09/26 16:45
----------------------------------------------------------------------------------------------------
-Falha na busca pelo CNPJ CNPJ da planilha lista1.xlsx. código: 400
-Data da Requisição: 10/09/26 16:48
----------------------------------------------------------------------------------------------------
 Falha na busca pelo CNPJ 01333986000119 da planilha lista1.xlsx. código: 400
-Data da Requisição: 10/09/26 16:50
+Data da Requisição: 14/09/26 16:31
 ---------------------------------------------------------------------------------------------------
 O arquivo modelo contratação.docx não é um excel
-Data da Requisição: 10/09/26 16:50
+Data da Requisição: 14/09/26 16:31
+-------------------------------------------------------------------------
+Falha na busca pelo CNPJ 01333986000119 da planilha lista1.xlsx. código: 400
+Data da Requisição: 14/09/26 16:40
+---------------------------------------------------------------------------------------------------
+O arquivo modelo contratação.docx não é um excel
+Data da Requisição: 14/09/26 16:40
 -------------------------------------------------------------------------
