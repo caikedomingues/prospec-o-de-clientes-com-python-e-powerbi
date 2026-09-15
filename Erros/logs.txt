@@ -28,3 +28,9 @@ Data da Requisição: 14/09/26 16:40
 O arquivo modelo contratação.docx não é um excel
 Data da Requisição: 14/09/26 16:40
 -------------------------------------------------------------------------
+Falha na busca pelo CNPJ 01333986000119 da planilha lista1.xlsx. código: 400
+Data da Requisição: 15/09/26 15:41
+---------------------------------------------------------------------------------------------------
+O arquivo modelo contratação.docx não é um excel
+Data da Requisição: 15/09/26 15:41
+-------------------------------------------------------------------------
