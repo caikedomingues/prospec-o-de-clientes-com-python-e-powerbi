@@ -13,11 +13,17 @@
 
     * Requests: Biblioteca para realização de requisições a sites e APIs
 
-    * os: Biblioteca que irá interagir com o sistema de arquivos do sistema operacional.
+    * os: Biblioteca que irá interagir com o sistema de arquivos do sistema operacional e irá acessar variáveis de ambientes.
 
     * time: Ira dar intervalos para as requisições a API.
 
     * datetime: Irá regsitrar a data e a hora de cada requisição no log.txt de erros de execução.
+
+    * smtplib: Define os protocolos de envio de mensagens de texto
+
+    * MimeMultpart: Classe que é utilizada para criar a estrutura de emails que serão enviados.
+
+    * MIMEText: Classe que define o formato do conteudo da mensagem (texto ou html).
 
 # Pastas do projeto
     * Base CNPJs: Pasta que irá conter os CNPJs que serão consultados na  API e analisados pelo python.
@@ -82,6 +88,8 @@
 
     * O sistema deverá salvar os dados publicos em uma planilha excel
     que irá ser acessada pelo powerbi.
+
+    * O sistema devera informar a equipe via e-mail que o relatório foi gerado.
 
                             PowerBI
     * O PowerBI devera acessar as planilhas de dados criadas pelo python
