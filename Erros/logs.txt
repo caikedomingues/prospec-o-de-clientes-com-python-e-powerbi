@@ -1,0 +1,12 @@
+Falha na busca pelo CNPJ 01333986000119 da planilha lista1.xlsx. código: 400
+Data da Requisição: 15/09/26 16:52
+---------------------------------------------------------------------------------------------------
+O arquivo modelo contratação.docx não é um excel
+Data da Requisição: 15/09/26 16:52
+-------------------------------------------------------------------------
+Falha na busca pelo CNPJ 01333986000119 da planilha lista1.xlsx. código: 400
+Data da Requisição: 15/09/26 16:59
+---------------------------------------------------------------------------------------------------
+O arquivo modelo contratação.docx não é um excel
+Data da Requisição: 15/09/26 16:59
+-------------------------------------------------------------------------
