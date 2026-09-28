@@ -118,8 +118,7 @@
     * Porte: Separação por porte da empresa.
 
                             Tabela de Prospecção
-    * Uma tabela detalhada onde o vendedor aplica o filtro por empresas
-    , por Estado e por disponibilidade de contato.
+    * Uma tabela detalhada onde o vendedor aplica o filtro por Estado, disponibilidade de contato e porte.
 
         
 
