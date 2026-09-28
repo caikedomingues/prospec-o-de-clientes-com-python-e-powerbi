@@ -1,4 +1,4 @@
-# prospecção de clientes com python e powerbi
+# Automação deprospecção de clientes com python e powerbi
   Em muitos cenários comerciais, equipes de vendas enfrentam dificuldades
   para prospectar novos clientes por trabalharem com listas brutas de 
   CNPJs, perdendo tempo com empresas inativas ou sem dados de contato.
@@ -44,7 +44,8 @@
 
     * link do site da API: https://developers.receitaws.com.br/?_gl=1*1rfqhri*_gcl_aw*R0NMLjE3ODg4MDc0OTMuQ2p3S0NBand3Zm5VQmhBdEVpd0FmUXBBWXRPbk5CZWF2ZWdlNXdRWXhoMFdCcTlLdGRZT2tzTDZhYUN2WVBlY0J6QVdZVVd3SHBySEZ4b0NMWVlRQXZEX0J3RQ..*_gcl_au*NDg1MzMwNjUuMTc4MjQxMzYzOQ..*_up*MQ..*_gs*MQ..&gclid=CjwKCAjwwfnUBhAtEiwAfQpAYtOnNBeavege5wQYxh0WBq9KtdYOksL6aaCvYPecBzAWYUWwHprHFxoCLYYQAvD_BwE&gbraid=0AAAAADf89S_afycagpHKh_AR8ta-0ixpT
 
-                                Possiveis retornos da API
+# Possiveis retornos da API
+
     * 200: Sucesso, o servidor retornou os dados buscados
 
     * 400: O servidor esta funcionando e recebeu a sua requsição, mas recusou a solicitação porque o formato ou o conteudo do pedido esta
@@ -60,7 +61,7 @@
    
 
 # Funcionalidades do sistema
-                                Python
+                               Python
 
     * O sistema deverá criar na pasta do projeto um diretório que irá
     conter todas as planilhas analisadas.
@@ -96,7 +97,7 @@
     com o objetivo de criar gráficos que exibe a distribuição de empresas
     por categorias.
 
-             Métricas que deverão ser abordadas no DashBoard
+ # Métricas que deverão ser abordadas no DashBoard
 
                          KPIs no Topo
 
@@ -108,7 +109,7 @@
     
     * % de Empresas com e-mail/telefone disponiveis
 
-                        Segmentação Estratégica (Gráficos Interativos)
+# Segmentação Estratégica (Gráficos Interativos)
 
     * Geográfico: Distribuição por Estado (UF) e Cidade (visão de mapa ou barras)
 
@@ -117,7 +118,8 @@
 
     * Porte: Separação por porte da empresa.
 
-                            Tabela de Prospecção
+# Tabela de Prospecção
+
     * Uma tabela detalhada onde o vendedor aplica o filtro por Estado, disponibilidade de contato e porte.
 
         
