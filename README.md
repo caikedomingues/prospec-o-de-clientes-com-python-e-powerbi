@@ -1,4 +1,4 @@
-# Automação deprospecção de clientes com python e powerbi
+# Automação de prospecção de clientes com python e powerbi
   Em muitos cenários comerciais, equipes de vendas enfrentam dificuldades
   para prospectar novos clientes por trabalharem com listas brutas de 
   CNPJs, perdendo tempo com empresas inativas ou sem dados de contato.
